@@ -1,7 +1,6 @@
 # hosts
 Blocklists for pi-hole
 
---------------------------------------------------------------------------------------
 # My Lists into pi-hole
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
