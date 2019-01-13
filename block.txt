@@ -17,6 +17,7 @@ vidcmp.com
 00589d1964588b6fe2dd-f519fb0bcb23ae58db2f767fd05b79bd.r17.cf1.rackcdn.com
 8d6292a738d3f29f9c5c-f5b791a2146a83d8756b83098fbdace3.r23.cf1.rackcdn.com
 cfda4478116ced4e5c0c-486ab133e21f97da1cc3c9922cd21742.r50.cf1.rackcdn.com
+72e16ddca6fc72187f76-ac5f0cfa61855ffc96a2903ec93aecad.r37.cf1.rackcdn.com
 
 #Weiterleitung auf Ads / Malware / Phishing
 eu.digitaldsp.com
