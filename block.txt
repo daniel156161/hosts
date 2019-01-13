@@ -9,4 +9,4 @@
 0.0.0.0 www.dentist.moreinfo.support
 0.0.0.0 www.apple.com-improve-macos.live
 0.0.0.0 www.5073555dc8b8c20d6172-db97f327d8d28de586ca9523d1810757.r75.cf1.rackcdn.com
-0.0.0.0 www.lp.interwetten.com
+0.0.0.0 lp.interwetten.com
