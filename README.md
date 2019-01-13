@@ -53,3 +53,4 @@ https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts	
 https://www.squidblacklist.org/downloads/dg-malicious.acl	
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://raw.githubusercontent.com/CamelCase11/UnifiedHosts/master/hosts.all
