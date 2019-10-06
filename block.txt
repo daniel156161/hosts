@@ -21,3 +21,10 @@ cfda4478116ced4e5c0c-486ab133e21f97da1cc3c9922cd21742.r50.cf1.rackcdn.com
 
 #Weiterleitung auf Ads / Malware / Phishing
 eu.digitaldsp.com
+
+#Phishing
+freudebote.de
+poponuss.de
+saltdays.de
+hallohaus.co
+megahause.de
