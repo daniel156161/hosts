@@ -4,7 +4,6 @@ dentist.moreinfo.support
 apple.com-improve-macos.live
 lp.interwetten.com
 vidcmp.com
-burning-series.io
 
 #Malware / Phishing
 5073555dc8b8c20d6172-db97f327d8d28de586ca9523d1810757.r75.cf1.rackcdn.com
@@ -15,6 +14,7 @@ cfda4478116ced4e5c0c-486ab133e21f97da1cc3c9922cd21742.r50.cf1.rackcdn.com
 
 #Weiterleitung auf Ads / Malware / Phishing
 eu.digitaldsp.com
+burning-series.io
 
 #Phishing
 freudebote.de
