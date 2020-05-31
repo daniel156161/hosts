@@ -4,6 +4,7 @@ dentist.moreinfo.support
 apple.com-improve-macos.live
 lp.interwetten.com
 vidcmp.com
+burning-series.io
 
 #Malware / Phishing
 5073555dc8b8c20d6172-db97f327d8d28de586ca9523d1810757.r75.cf1.rackcdn.com
