@@ -1,0 +1,19 @@
+!
+! Title: Hate Speech/Trolling DNS filter
+! Description: Filter composed of several other filters and simplified specifically to be better compatible with DNS-level blocking.
+! Last modified: 2024-08-21T12:37:12.640Z
+!
+!
+! Source name:  Hate Speech/Trolling filter Sides
+! Source: https://raw.githubusercontent.com/daniel156161/hosts/master/hatespeech_trolling.txt
+!
+!
+! This section contains the list of third-party hate speech and trolling domains.
+! Note, that we only put rules that block full domains here and not URL parts. Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+!
+! Good: ||doubleclick.net^
+! Bad: /banner.jpg
+!
+||kiwifarms.st^
+||4chan.org^
