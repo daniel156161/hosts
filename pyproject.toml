@@ -1,0 +1,32 @@
+[project]
+name = "hosts-automation"
+version = "0.1.0"
+description = "pfBlockerNG-compatible domain blocklist automation"
+requires-python = ">=3.12"
+dependencies = [
+    "tqdm>=4.67.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
+
+[project.scripts]
+update-blocklist = "hosts_automation.update_lists:main"
+discover-candidates = "hosts_automation.discover_candidates:main"
+approve-candidates = "hosts_automation.approve_candidates:main"
+inspect-candidates = "hosts_automation.inspect_candidates:main"
+review-candidates = "hosts_automation.review_candidates:main"
+apply-review = "hosts_automation.apply_review:main"
+
+[tool.uv]
+package = true
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
