@@ -1,7 +1,7 @@
 # Custom hosts blocklist entries
 # Manual domains and domains approved from local pfSense log review.
 # Domains already covered by sources.txt are pruned by update-blocklist.
-# Updated: 2026-09-12T10:41:42Z
+# Updated: 2026-09-15T09:00:06Z
 
 00589d1964588b6fe2dd-f519fb0bcb23ae58db2f767fd05b79bd.r17.cf1.rackcdn.com
 007drones.de
